@@ -4,20 +4,57 @@ This is a section for Intro to Computer Vision for SIC week 6. Slide could be ac
 
 ## Materials
 
-- OpenCV Basics
-- RGB to Grayscale
-- Scaling, re-sizing, Interpolations
-- Image Masking
-- Color Histogram
-- Sharpening
-- Blurring
-- Thresholding Image
-- Morphological Operations
-- Edge Detections
-- Line Detection
-- Morphological Operations
-- Background Subtraction Methods
-- Face and Eye Detection (Haar Cascade)
+### OpenCV Basics
+
+In the slide.
+
+### RGB to Grayscale
+
+![rgb_to_grayscale](docs/rgb_to_grayscale.png)
+
+### Scaling, re-sizing, Interpolations
+
+![scaling_resizing](docs/scaling_resizing.png)
+
+### Image Masking
+
+![masking](docs/image_masking.png)
+
+### Color Histogram
+
+![histogram](docs/color_histogram.png)
+
+### Sharpening
+
+![sharpening](docs/sharpening.png)
+
+### Blurring
+
+![blurring](docs/blurring.png)
+
+### Thresholding Image
+
+![thresholding](docs/thresholding_images.png)
+
+### Morphological Operations
+
+In the slide.
+
+### Edge Detections
+
+![edge_detection](docs/edge_detection.png)
+
+### Line Detection
+
+![line_detection](docs/line_detection.png)
+
+### Background Subtraction Methods
+
+![background_subtraction](docs/background_substraction.png)
+
+### Face and Eye Detection (Haar Cascade)
+
+![haar_cascade](docs/face_eye_detection.png)
 
 ## How to use this notebook
 
