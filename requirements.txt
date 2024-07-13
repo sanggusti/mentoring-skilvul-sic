@@ -4,3 +4,8 @@ matplotlib
 seaborn
 fastapi
 flask
+streamlit
+ultralytics
+opencv-python
+opencv-contrib-python
+pillow
